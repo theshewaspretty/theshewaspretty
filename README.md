@@ -5,10 +5,10 @@
 ### Hi there 👋
 I hope to exp everthing.
 
-### Skills 💪
+<!-- ### Skills 💪
 <img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-inactive?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-important?style=flat-square&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-important?style=flat-square&logo=ubuntu&logoColor=white"/> -->
 
 
 
