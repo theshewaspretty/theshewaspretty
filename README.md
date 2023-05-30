@@ -1,4 +1,4 @@
-🐴 theshewaspretty/README.md <br />
+🐴 theshewaspretty <br />
 <a href="https://instagram.com/chany_land" target="_blank"><img src="https://img.shields.io/badge/will-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/torvalds37@gmail.com-important?style=flat-square&logo=gmail&logoColor=white"/>
 
