@@ -3,7 +3,6 @@
 <img src="https://img.shields.io/badge/torvalds37@gmail.com-important?style=flat-square&logo=gmail&logoColor=white"/>
 
 ### Hi there 👋
-I hope to exp everthing.
 
 <!-- ### Skills 💪
 <img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white"/>
