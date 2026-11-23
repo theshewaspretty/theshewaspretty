@@ -76,7 +76,7 @@ I'm also continuously learning and exploring the world of AI/ML infrastructure, 
 </p>
 
 <p align="center">
-<i>Keep learning. Keep building. Keep growing. ♡</i>
+<i>Keep learning. Keep building. Keep growing. </i>
 </p>
 
 <p align="center">
