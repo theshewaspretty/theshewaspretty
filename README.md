@@ -73,6 +73,16 @@ I'm also continuously learning and exploring the world of AI/ML infrastructure, 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshewaspretty&layout=compact&theme=rose_pine&hide_border=true" height="165"/> -->
 </p>
 
+🏢 Organization Contributions
+
+<p align="center">
+  <a href="https://github.com/CTPHIT">
+    <img src="https://img.shields.io/badge/Organization-CTPHIT-FFC0CB?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/theshewaspretty?tab=overview">
+    <img src="https://img.shields.io/badge/My%20Contributions-GitHub-8A7CA8?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 🐍 Contribution Snake
 
 <p align="center">
