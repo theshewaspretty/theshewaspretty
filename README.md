@@ -63,14 +63,9 @@ I'm also continuously learning and exploring the world of AI/ML infrastructure, 
 </p>
 
 📈 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=theshewaspretty&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" height="165"/>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=theshewaspretty&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=default" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshewaspretty&layout=compact&theme=rose_pine&hide_border=true&hide=html,css" height="165"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshewaspretty&layout=compact&theme=rose_pine&hide_border=true" height="165"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=theshewaspretty&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=percentile" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshewaspretty&layout=compact&theme=rose_pine&hide_border=true&hide=html,css" height="180"/>
 </p>
 
 🏢 Organization Contributions
