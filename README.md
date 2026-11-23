@@ -1,7 +1,7 @@
 🐴 theshewaspretty
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FFC0CB&height=180&section=header&text=Cloud%20%26%20DevOps%20Engineer&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=FFC0CB&height=180&section=header&text=Cloud%20%26%20DevOps%20Engineer&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="100%" /> -->
 </p>
 
 <p align="center">
