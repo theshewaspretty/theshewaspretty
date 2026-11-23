@@ -66,7 +66,7 @@ I'm also continuously learning and exploring the world of AI/ML infrastructure, 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=theshewaspretty&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshewaspretty&layout=compact&theme=rose_pine&hide_border=true&hide=html" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshewaspretty&layout=compact&theme=rose_pine&hide_border=true&hide=html,css" height="165"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshewaspretty&layout=compact&theme=rose_pine&hide_border=true" height="165"/> -->
 </p>
 
