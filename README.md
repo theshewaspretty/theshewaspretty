@@ -73,7 +73,7 @@ I'm also continuously learning and exploring the world of AI/ML infrastructure, 
 🐍 Contribution Snake
 
 <p align="center">
-<!-- <img src="https://raw.githubusercontent.com/theshewaspretty/theshewaspretty/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> -->
+<img src="https://raw.githubusercontent.com/theshewaspretty/theshewaspretty/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 <p align="center">
