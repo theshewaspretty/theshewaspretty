@@ -78,16 +78,9 @@ I'm also continuously learning and exploring the world of AI/ML infrastructure, 
     <img src="https://img.shields.io/badge/My%20Contributions-GitHub-8A7CA8?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-🐍 Contribution Snake
 
-<p align="center">
-<!-- <img src="https://raw.githubusercontent.com/theshewaspretty/theshewaspretty/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> -->
-</p>
 
 <p align="center">
 <i>Keep learning. Keep building. Keep growing. </i>
 </p>
 
-<p align="center">
-<!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=100&section=footer"/> -->
-</p>
